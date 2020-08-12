@@ -44,9 +44,9 @@ I am taking this challenge to improve my coding skills and to learn javascript a
 3. Day 3 - Svg Animation <ul><li><a href="https://zhoha28.github.io/animations/demo1/"> Demo 1 - Biker guy</a></li>
                              <li><a href="https://zhoha28.github.io/animations/demo2/"> Demo 2 - Cross eyed alien </a></li>
                               </ul>
-4.  <a href="https://zhoha28.github.io/100daysofcode/day4/index.html"> Day 4 - Chore Bot - Game </a>
-5.  <a href="https://zhoha28.github.io/100daysofcode/day5/index.html"> Day 5 - Text to Speech API </a>
-6.  <a href="https://zhoha28.github.io/100daysofcode/day6/index.html"> Day 6 - Numbers API </a>
+4.  <a href="https://zhoha28.github.io/100daysofcode/day4/"> Day 4 - Chore Bot - Game </a>
+5.  <a href="https://zhoha28.github.io/100daysofcode/day5/"> Day 5 - Text to Speech API </a>
+6.  <a href="https://zhoha28.github.io/100daysofcode/day6/"> Day 6 - Numbers API </a>
 
 
 
