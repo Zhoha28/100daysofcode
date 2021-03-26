@@ -42,11 +42,12 @@ I am taking this challenge to improve my coding skills and to learn javascript a
 1. <a href="https://zhoha28.github.io/code-log/">Day 1- Code Log</a>
 2. <a href="https://zhoha28.github.io/100daysofcode/day3/index.html"> Day 2 - Drumkit </a>
 3. Day 3 - Svg Animation <ul><li><a href="https://zhoha28.github.io/animations/demo1/"> Demo 1 - Biker guy</a></li>
-                             <li><a href="https://zhoha28.github.io/animations/demo2/"> Demo 2 - Cross eyed alien </a></li>
+<li><a href="https://zhoha28.github.io/animations/demo2/"> Demo 2 - Cross eyed alien </a></li>
                               </ul>
 4.  <a href="https://zhoha28.github.io/100daysofcode/day4/"> Day 4 - Chore Bot - Game </a>
 5.  <a href="https://zhoha28.github.io/100daysofcode/day5/"> Day 5 - Text to Speech API </a>
 6.  <a href="https://zhoha28.github.io/100daysofcode/day6/"> Day 6 - Numbers API </a>
+7.   <a href="https://zhoha28.github.io/100daysofcode/day7/"> Day 7 - Color Flipper </a>
 
 
 
