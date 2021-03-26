@@ -45,8 +45,11 @@ I am taking this challenge to improve my coding skills and to learn javascript a
 <li><a href="https://zhoha28.github.io/animations/demo2/"> Demo 2 - Cross eyed alien </a></li>
                               </ul>
 4.  <a href="https://zhoha28.github.io/100daysofcode/day4/"> Day 4 - Chore Bot - Game </a>
+<br>
 5.  <a href="https://zhoha28.github.io/100daysofcode/day5/"> Day 5 - Text to Speech API </a>
+<br>
 6.  <a href="https://zhoha28.github.io/100daysofcode/day6/"> Day 6 - Numbers API </a>
+<br>
 7.   <a href="https://zhoha28.github.io/100daysofcode/day7/"> Day 7 - Color Flipper </a>
 
 
